@@ -1,4 +1,6 @@
-# TDC 2017 SP TechWars: Threads, ThreadPool and Tasks with C# 
+# TDC 2017 SP 
+
+## TechWars: Threads, ThreadPool and Tasks with C# 
 
 A long time ago in a galaxy far, far away....
 
